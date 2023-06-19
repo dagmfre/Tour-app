@@ -419,10 +419,13 @@ picture {
 }
 .accordion {
 	width: 500px;
-  height: 700px;
+  height: 600px;
   margin-left: 100px;
+  padding: 0;
+  border: 1px solid grey;
   position: relative;
   left: 100px;
+  bottom: 50px;
   font-size: large;
 }
 .accordion input {
