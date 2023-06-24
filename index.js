@@ -14,8 +14,7 @@ window.addEventListener("scroll", function() {
   }
 });
 
-
-
-/* http://www.addisababa.travel/images/yootheme/abuneb.jpg
-                  src="https://img.sewasew.com/definitions/aa75b7b94ea54a18b6662433b9073f2e_689_442"
- */
+function scrollToContacts() {
+  var contactsSection = document.getElementById("Service");
+  contactsSection.scrollIntoView({ behavior: "smooth" });
+}
