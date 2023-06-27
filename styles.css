@@ -404,11 +404,6 @@ picture {
   transform: scale(1.5);
 }
 
-#footer {
-  background-color: #1d2b36;
-  height: 450px;
-}
-
 .main{
   display: flex;
   justify-content: center;
