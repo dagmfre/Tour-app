@@ -22,11 +22,6 @@
 ul{
 	list-style: none;
 }
-.footer{
-	background-color: #24262b;
-    padding: 40px 0;
-    height: 200px;
-}
 .footer-col{
    width: 25%;
    padding: 0 35px;
@@ -509,6 +504,10 @@ input:checked + section.box .box-title:before {
   width: 600px;
   color: #ffffff;
   display: inline-block;
+}
+#footer {
+  background-color: #1d2b36;
+  padding: 40px 0;
 }
 
 .last2{
